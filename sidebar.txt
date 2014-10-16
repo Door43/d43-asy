@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[asy:home|Door43 (asy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-asy|d43-asy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-asy/archive/master.zip|d43-asy.zip]]
+
+**Recent Changes**
+{{changes>ns = asy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/asy|Ethnologue data]]
+
